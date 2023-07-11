@@ -7,7 +7,7 @@ Following are files present in this repo.
 * [Jupyter Notebook](https://github.com/ddurgoji/customer-coupon-accept/blob/main/customer_acceptance.ipynb)
     * Jupyter Notebook containing code used to perform this analysis.
 * [Readme](https://github.com/ddurgoji/customer-coupon-accept/blob/main/README.md)
-    * Project description
+    * Project readme file
 * [Dataset](https://github.com/ddurgoji/customer-coupon-accept/blob/main/data/coupons.csv)
     * This dataset if from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk
 
