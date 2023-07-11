@@ -24,6 +24,7 @@ Below are some of important technologies used in this project.
 * [Python](https://www.python.org)
 * [Jupyter Lab Notebook](https://jupyter.org)
 * [Plotly](https://plotly.com)
+* [Seaborn](https://seaborn.pydata.org)
 * [Pandas](http://pandas.pydata.org)
 
 
