@@ -6,8 +6,6 @@ This repo contains the data analysis performed on driving coupons dataset to der
 Following are files present in this repo.
 * [Jupyter Notebook](https://github.com/ddurgoji/customer-coupon-accept/blob/main/customer_acceptance.ipynb)
     * Jupyter Notebook containing code used to perform this analysis.
-* [Jupyter Notebook HTML Export](https://github.com/ddurgoji/driver-coupon-recommendation/blob/main/coupon-recommendation.html)
-    * Jupyter Notebook HTML Export. Note: I have used plotly extensively and graphs aren't displayed inside notebook on GitHub. If you are interested in looking at Graphs without running notebook please take a look at this file.
 * [Readme](https://github.com/ddurgoji/customer-coupon-accept/blob/main/README.md)
     * Project description
 * [Dataset](https://github.com/ddurgoji/customer-coupon-accept/blob/main/data/coupons.csv)
